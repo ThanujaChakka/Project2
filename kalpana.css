@@ -1,0 +1,15 @@
+h1{
+    //background-color: rgb(163, 199, 247);
+    //color: rgb(67, 80, 252);
+    color:grey;
+}
+body{
+    background-image: url('http://wallpapercave.com/wp/3wPVPxQ.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  
+}
+p{
+    color: white;
+}

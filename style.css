@@ -1,0 +1,40 @@
+.pics{
+    width: 1500px;
+    height: 300px;
+    display: flex;
+    border: 10px solid rgb(232, 248, 248);
+    
+    justify-content: space-around;
+    justify-content: space-evenly;
+    border-top-left-radius: 40%;
+    border-top-right-radius: 40%;
+    border-style:groove;
+    border-left-width: 20%;
+    margin: auto;
+    padding-top: 3%;
+}
+body{
+    background-image: url('http://printablegraphics.in/wp-content/uploads/2018/01/Html-background-image.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  
+}
+h3{
+    color: aliceblue;
+  
+}
+.hed{
+    color:rgb(223, 240, 239)
+    
+}
+img{
+    border-style:groove;
+   border: 5px solid rgb(232, 248, 248);;
+    height: 200px;
+    width: 200px;
+    border-top-left-radius: 70%;
+    border-top-right-radius: 20%;
+    border-bottom-left-radius: 20%;
+    border-bottom-right-radius: 20%;
+}

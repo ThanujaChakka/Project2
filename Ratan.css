@@ -1,0 +1,13 @@
+img{
+    border-top-left-radius: 50%;
+   border-bottom-left-radius:50%;
+    border-bottom-right-radius: 50%;
+    border-top-right-radius: 50%;
+}
+body{
+    background-image: url('http://cdn.wallpapersafari.com/8/68/i7xkMe.jpg');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-position: 100% 100%;
+  
+}
